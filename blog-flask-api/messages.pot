@@ -1,0 +1,195 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-07-23 16:03+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: app/forms.py:38 app/forms.py:45 app/forms.py:77
+msgid "Username"
+msgstr ""
+
+#: app/forms.py:39 app/forms.py:47 app/forms.py:70
+msgid "Password"
+msgstr ""
+
+#: app/forms.py:40
+msgid "Remember Me"
+msgstr ""
+
+#: app/forms.py:41 app/templates/login.html:5
+msgid "Sign In"
+msgstr ""
+
+#: app/forms.py:46 app/forms.py:65
+msgid "Email"
+msgstr ""
+
+#: app/forms.py:49 app/forms.py:72
+msgid "Repeat Password"
+msgstr ""
+
+#: app/forms.py:51 app/templates/register.html:5
+msgid "Register"
+msgstr ""
+
+#: app/forms.py:56 app/forms.py:90
+msgid "Please use a different username."
+msgstr ""
+
+#: app/forms.py:61
+msgid "Please use a different email address."
+msgstr ""
+
+#: app/forms.py:66 app/forms.py:74
+msgid "Request Password Reset"
+msgstr ""
+
+#: app/forms.py:78
+msgid "About me"
+msgstr ""
+
+#: app/forms.py:80 app/forms.py:98
+msgid "Submit"
+msgstr ""
+
+#: app/forms.py:97
+msgid "Say something"
+msgstr ""
+
+#: app/templates/_post.html:14
+#, python-format
+msgid "%(username)s said %(when)s"
+msgstr ""
+
+#: app/templates/_post.html:25
+msgid "Translate"
+msgstr ""
+
+#: app/templates/base.html:4
+msgid "Welcome to FlaskBlog"
+msgstr ""
+
+#: app/templates/base.html:21
+msgid "Home"
+msgstr ""
+
+#: app/templates/base.html:22
+msgid "Explore"
+msgstr ""
+
+#: app/templates/base.html:26
+msgid "Login"
+msgstr ""
+
+#: app/templates/base.html:28
+msgid "Profile"
+msgstr ""
+
+#: app/templates/base.html:29
+msgid "Logout"
+msgstr ""
+
+#: app/templates/base.html:66
+msgid "Error: Could not contact server."
+msgstr ""
+
+#: app/templates/edit_profile.html:5
+msgid "Edit Profile"
+msgstr ""
+
+#: app/templates/index.html:5
+#, python-format
+msgid "Hi, %(username)s!"
+msgstr ""
+
+#: app/templates/index.html:17 app/templates/user_profile.html:41
+msgid "Newer posts"
+msgstr ""
+
+#: app/templates/index.html:22 app/templates/user_profile.html:46
+msgid "Older posts"
+msgstr ""
+
+#: app/templates/login.html:12
+msgid "New User?"
+msgstr ""
+
+#: app/templates/login.html:12
+msgid "Click to Register!"
+msgstr ""
+
+#: app/templates/login.html:14
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: app/templates/login.html:15
+msgid "Click to Reset It"
+msgstr ""
+
+#: app/templates/reset_password.html:5
+msgid "Reset Your Password"
+msgstr ""
+
+#: app/templates/reset_password_request.html:5
+msgid "Reset Password"
+msgstr ""
+
+#: app/templates/user_profile.html:8
+msgid "User"
+msgstr ""
+
+#: app/templates/user_profile.html:11
+msgid "Last seen on"
+msgstr ""
+
+#: app/templates/user_profile.html:13
+#, python-format
+msgid "%(count)d followers"
+msgstr ""
+
+#: app/templates/user_profile.html:13
+#, python-format
+msgid "%(count)d following"
+msgstr ""
+
+#: app/templates/user_profile.html:15
+msgid "Edit your profile"
+msgstr ""
+
+#: app/templates/user_profile.html:20
+msgid "Follow"
+msgstr ""
+
+#: app/templates/user_profile.html:27
+msgid "Unfollow"
+msgstr ""
+
+#: app/templates/error-pages/404.html:4
+msgid "Not Found"
+msgstr ""
+
+#: app/templates/error-pages/404.html:5 app/templates/error-pages/500.html:6
+msgid "Back"
+msgstr ""
+
+#: app/templates/error-pages/500.html:4
+msgid "An unexpected error has occurred"
+msgstr ""
+
+#: app/templates/error-pages/500.html:5
+msgid "The administrator has been notified. Sorry for the inconvenience!"
+msgstr ""
+
